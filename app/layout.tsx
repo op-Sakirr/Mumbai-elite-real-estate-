@@ -4,6 +4,9 @@ import './globals.css'; // Global styles
 export const metadata: Metadata = {
   title: 'Mumbai Elite Real Estate | Open Land & Outright Building Deals',
   description: 'Mumbai Elite Real Estate specializes in open land and outright building deals in Mumbai. Explore property investment opportunities, land transactions, and building purchase options with professional real estate assistance.',
+  icons: {
+    icon: '/favicon.ico',
+  },
   openGraph: {
     title: 'Mumbai Elite Real Estate | Open Land & Outright Building Deals',
     description: 'Mumbai Elite Real Estate specializes in open land and outright building deals in Mumbai. Explore property investment opportunities, land transactions, and building purchase options with professional real estate assistance.',
