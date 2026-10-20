@@ -7,6 +7,9 @@ export const metadata: Metadata = {
   icons: {
     icon: '/favicon.ico',
   },
+  other: {
+    'google-site-verification': 'ZS7Ji6uzAvCK4ZWV-kfNVwciVcpp0w9o9JPaGPKRc4Q',
+  },
   openGraph: {
     title: 'Mumbai Elite Real Estate | Open Land & Outright Building Deals',
     description: 'Mumbai Elite Real Estate specializes in open land and outright building deals in Mumbai. Explore property investment opportunities, land transactions, and building purchase options with professional real estate assistance.',
