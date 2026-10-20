@@ -1,0 +1,6 @@
+{
+  "name": "Mumbai Elite Real Estate",
+  "description": "Premium real estate agency in Mumbai offering luxury residential and commercial properties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
